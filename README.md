@@ -1,5 +1,9 @@
 # Can visual language models resolve textual ambiguity with visual cues? Let visual puns tell you!
 
+<p align="center">
+    <img src="./unpie_main.png" alt=figure width=1024px>
+</p>
+
 This repository contains the code for our EMNLP 2024 paper:
 ***Can visual language models resolve textual ambiguity with visual cues? Let visual puns tell you!*** <br>
 Jiwan Chung, Seungwon Lim, Jaehyun Jeon, Seungbeen Lee, Youngjae Yu <br>
